@@ -1,3 +1,5 @@
-<div id="header" align="center">
-  <img src="https://tgram.ru/wiki/stickers/img/Crocosaurus/gif/12.gif" width="100"/>
-</div>
+# Cubigatoe
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cubigator)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cubigator)]
+
